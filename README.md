@@ -1,4 +1,4 @@
-# Logo_Similarity_task
+# Logo_Similarity_Match
 
 "Logo Similarity" realizeaza clusteringul logo-urilor pentru a grupa website-urile care au logo-uri similare.
 
