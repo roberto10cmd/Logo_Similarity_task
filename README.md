@@ -6,7 +6,7 @@
 
 1_extract_urls.py  :  Extragerea url-urilor din fisierul dat ca input.  
 2_extract_pdfs.js  :  Crearea de capturi de ecran in format PDF.  
-3_extract_images.py : Extragerea imaginilor din PDF-uri.  3_extract_images.py
+3_extract_images.py : Extragerea imaginilor din PDF-uri.  
 4_extract_logos.py : Detectia si decuparea logo-urilor din imagini. 
 5_clustering.py    : Aplicarea clusteringului pe logo-uri si gruparea website-urilor.
 
